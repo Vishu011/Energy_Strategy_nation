@@ -1,0 +1,195 @@
+#  holidays
+#  --------
+#  A fast, efficient Python library for generating country, province and state
+#  specific sets of holidays on the fly. It aims to make determining whether a
+#  specific date is a holiday as fast and flexible as possible.
+#
+#  Authors: Vacanza Team and individual contributors (see AUTHORS file)
+#           dr-prodigy <dr.prodigy.github@gmail.com> (c) 2017-2023
+#           ryanss <ryanssdev@icloud.com> (c) 2014-2017
+#  Website: https://github.com/vacanza/holidays
+#  License: MIT (see LICENSE file)
+#
+# Indonesia holidays uk localization.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Holidays 0.60\n"
+"POT-Creation-Date: 2023-07-23 14:09+0300\n"
+"PO-Revision-Date: 2024-10-30 16:45+0700\n"
+"Last-Translator: PPsyrius <ppsyrius@ppsyrius.dev>\n"
+"Language-Team: Holidays Localization Team\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Generated-By: Lingua 4.15.0\n"
+"X-Generator: Poedit 3.5\n"
+
+#. %s (estimated).
+#, c-format
+msgid "%s (perkiraan)"
+msgstr "%s (приблизна дата)"
+
+#. General Election Day.
+msgid "Hari Pemilihan Unum"
+msgstr "День загальних виборів"
+
+#. Presidential Election Day.
+msgid "Hari Pemilihan Presiden"
+msgstr "День президентських виборів"
+
+#. Legislative Election Day.
+msgid "Hari Pemilihan Legislatif"
+msgstr "День парламентських виборів"
+
+#. Local Election Day.
+msgid "Hari Pemilihan Kepala Daerah"
+msgstr "День місцевих виборів"
+
+#. Eid al-Fitr Joint Holiday.
+msgid "Cuti Bersama Hari Raya Idul Fitri"
+msgstr "Додатковий вихідний на Курбан-байрам"
+
+#. Christmas Joint Holiday.
+msgid "Cuti Bersama Hari Raya Natal"
+msgstr "Додатковий вихідний на Різдво Христове"
+
+#. Lunar New Year Joint Holiday.
+msgid "Cuti Bersama Tahun Baru Imlek"
+msgstr "Додатковий вихідний на Китайський Новий рік"
+
+#. Day of Silence Joint Holiday.
+msgid "Cuti Bersama Hari Suci Nyepi"
+msgstr "Додатковий вихідний на Священний день тиші"
+
+#. New Year's Day.
+msgid "Tahun Baru Masehi"
+msgstr "Новий рік"
+
+#. Lunar New Year.
+msgid "Tahun Baru Imlek"
+msgstr "Китайський Новий рік"
+
+#. Day of Silence.
+msgid "Hari Suci Nyepi"
+msgstr "День тиші"
+
+#. Good Friday.
+msgid "Wafat Yesus Kristus"
+msgstr "Страсна пʼятниця"
+
+#. Easter Monday.
+msgid "Hari kedua Paskah"
+msgstr "Великодній понеділок"
+
+#. Vesak Day.
+msgid "Hari Raya Waisak"
+msgstr "День народження Будди"
+
+#. International Labor Day.
+msgid "Hari Buruh Internasional"
+msgstr "Міжнародний день праці"
+
+#. Ascension Day.
+msgid "Kenaikan Yesus Kristus"
+msgstr "Вознесіння Господнє"
+
+#. Whit Monday.
+msgid "Hari kedua Pentakosta"
+msgstr "День Святого Духа"
+
+#. Pancasila Day.
+msgid "Hari Lahir Pancasila"
+msgstr "День Панчасіла"
+
+#. Assumption Day.
+msgid "Mikraj Santa Maria"
+msgstr "Внебовзяття Пресвятої Діви Марії"
+
+#. Independence Day.
+msgid "Hari Kemerdekaan Republik Indonesia"
+msgstr "День незалежності Республіки Індонезія"
+
+#. Armed Forces Day.
+msgid "Hari Angkatan Perang"
+msgstr "День Збройних сил"
+
+#. Heroes' Day.
+msgid "Hari Pahlawan"
+msgstr "День Героїв"
+
+#. Christmas Day.
+msgid "Hari Raya Natal"
+msgstr "Різдво Христове"
+
+#. Eid al-Fitr.
+msgid "Hari Raya Idul Fitri"
+msgstr "Рамазан-байрам"
+
+#. Eid al-Fitr Second Day.
+msgid "Hari kedua dari Hari Raya Idul Fitri"
+msgstr "Другий день Рамазан-байрам"
+
+#. Eid al-Adha.
+msgid "Hari Raya Idul Adha"
+msgstr "Курбан-байрам"
+
+#. Islamic New Year.
+msgid "Tahun Baru Islam"
+msgstr "Ісламський Новий рік"
+
+#. Prophet's Birthday.
+msgid "Maulid Nabi Muhammad"
+msgstr "День народження пророка Мухаммада"
+
+#. Isra' and Mi'raj.
+msgid "Isra Mikraj Nabi Muhammad"
+msgstr "Вознесіння пророка Мухаммада"
+
+#. Nuzul Al Quran.
+msgid "Nuzululqur'an"
+msgstr "Річниця обʼявлення Корану"
+
+#. Eid al-Adha Joint Holiday.
+msgid "Cuti Bersama Hari Raya Idul Adha"
+msgstr "Додатковий вихідний на Курбан-байрам"
+
+#. Prophet's Birthday Joint Holiday.
+msgid "Cuti Bersama Maulid Nabi Muhammad"
+msgstr "Додатковий вихідний на День народження пророка Мухаммада"
+
+#. Ascension Joint Holiday.
+msgid "Cuti Bersama Kenaikan Yesus Kristus"
+msgstr "Додатковий вихідний на Вознесіння Господнє"
+
+#. Vesak Joint Holiday.
+msgid "Cuti Bersama Hari Raya Waisak"
+msgstr "Додатковий вихідний на День народження Будди"
+
+#. %s (observed).
+#, c-format
+msgid "Pegangti %s"
+msgstr "%s (вихідний)"
+
+#. %s (observed, estimated).
+#, c-format
+msgid "Pegangti %s (perkiraan)"
+msgstr "%s (вихідний, приблизна дата)"
+
+#. Islamic New Year Joint Holiday.
+msgid "Cuti Bersama Tahun Baru Islam"
+msgstr "Додатковий вихідний на Ісламський Новий рік"
+
+#. New Year's Joint Holiday.
+msgid "Cuti Bersama Tahun Baru Masehi"
+msgstr "Додатковий вихідний на Новий рік"
+
+#. Independence Day Joint Holiday.
+msgid "Cuti Bersama Hari Kemerdekaan Republik Indonesia"
+msgstr "Додатковий вихідний на День незалежності Республіки Індонезія"
+
+#. Easter Sunday.
+msgid "Kebangkitan Yesus Kristus"
+msgstr "Великдень"
